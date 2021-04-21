@@ -1,3 +1,18 @@
+# Intentions
+
+* Evaluate if a good candidate for Segmentation desire.
+
+# @STCResult
+
+* Seems for segmentation that gets labeled.
+
+
+
+--------------------
+# ORIGINAL README
+
+----------------------
+
 # Image Segmentation Keras : Implementation of Segnet, FCN, UNet, PSPNet and other models in Keras.
 
 [![PyPI version](https://badge.fury.io/py/keras-segmentation.svg)](https://badge.fury.io/py/keras-segmentation)
